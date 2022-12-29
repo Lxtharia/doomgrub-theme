@@ -10,6 +10,8 @@ A Grub2 theme in the style of Doom!
 - update your live grub config by running `sudo grub-mkconfig -o /boot/grub2/grub.cfg`
 - your good to go
 
+![Doom Grub Preview "Screenshot"](.github/preview01.png)
+
 ## Cool
 - You probably didn't think "Wait, but how is this possible", probably because you never made a grub theme with a custom font
 - The thing is:
