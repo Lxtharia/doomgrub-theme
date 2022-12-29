@@ -1,0 +1,170 @@
+
+# Global
+title-text: ""
+desktop-image: "background.png"
+terminal-font: "Unknown Regular 16"
+
++ label {
+	id = "__timeout__"
+	left = 30
+	top = 90%
+	height = 50
+	width = 50%
+	
+	text = "Executing option in %d seconds"
+	font = "Unknown Regular 16"
+	color = "white"
+}
+
+
++ boot_menu {
+	left = 50%-600
+	top = 32%
+	width = 50%+600
+	height = 68%
+
+	item_font = "DoomShade Regular shade240 85"
+	item_color = "240, 0, 0"
+	selected_item_color = "200, 0, 0"
+	item_height = 95
+	item_padding = 0
+	item_spacing = 15
+	
+	icon_width = 0
+	item_icon_space = 60
+	
+	selected_item_pixmap_style = "icon85_*.png"
+}
+
++ boot_menu {
+	left = 50%-600
+	top = 32%
+	width = 50%+600
+	height = 68%
+
+	item_font = "DoomShade Regular shade208 85"
+	item_color = "208, 0, 0"
+	selected_item_color = "168, 0, 0"
+	item_height = 95
+	item_padding = 0
+	item_spacing = 15
+	
+	icon_width = 0
+	item_icon_space = 60
+	
+	selected_item_pixmap_style = "icon85_*.png"
+}
+
++ boot_menu {
+	left = 50%-600
+	top = 32%
+	width = 50%+600
+	height = 68%
+
+	item_font = "DoomShade Regular shade176 85"
+	item_color = "176, 0, 0"
+	selected_item_color = "136, 0, 0"
+	item_height = 95
+	item_padding = 0
+	item_spacing = 15
+	
+	icon_width = 0
+	item_icon_space = 60
+	
+	selected_item_pixmap_style = "icon85_*.png"
+}
+
++ boot_menu {
+	left = 50%-600
+	top = 32%
+	width = 50%+600
+	height = 68%
+
+	item_font = "DoomShade Regular shade144 85"
+	item_color = "144, 0, 0"
+	selected_item_color = "104, 0, 0"
+	item_height = 95
+	item_padding = 0
+	item_spacing = 15
+	
+	icon_width = 0
+	item_icon_space = 60
+	
+	selected_item_pixmap_style = "icon85_*.png"
+}
+
++ boot_menu {
+	left = 50%-600
+	top = 32%
+	width = 50%+600
+	height = 68%
+
+	item_font = "DoomShade Regular shade112 85"
+	item_color = "112, 0, 0"
+	selected_item_color = "72, 0, 0"
+	item_height = 95
+	item_padding = 0
+	item_spacing = 15
+	
+	icon_width = 0
+	item_icon_space = 60
+	
+	selected_item_pixmap_style = "icon85_*.png"
+}
+
++ boot_menu {
+	left = 50%-600
+	top = 32%
+	width = 50%+600
+	height = 68%
+
+	item_font = "DoomShade Regular shade80 85"
+	item_color = "80, 0, 0"
+	selected_item_color = "40, 0, 0"
+	item_height = 95
+	item_padding = 0
+	item_spacing = 15
+	
+	icon_width = 0
+	item_icon_space = 60
+	
+	selected_item_pixmap_style = "icon85_*.png"
+}
+
++ boot_menu {
+	left = 50%-600
+	top = 32%
+	width = 50%+600
+	height = 68%
+
+	item_font = "DoomShade Regular shade48 85"
+	item_color = "48, 0, 0"
+	selected_item_color = "8, 0, 0"
+	item_height = 95
+	item_padding = 0
+	item_spacing = 15
+	
+	icon_width = 0
+	item_icon_space = 60
+	
+	selected_item_pixmap_style = "icon85_*.png"
+}
+
++ boot_menu {
+	left = 50%-600
+	top = 32%
+	width = 50%+600
+	height = 68%
+
+	item_font = "DoomShade Regular shade16 85"
+	item_color = "16, 0, 0"
+	selected_item_color = "0, 0, 0"
+	item_height = 95
+	item_padding = 0
+	item_spacing = 15
+	
+	icon_width = 0
+	item_icon_space = 60
+	
+	selected_item_pixmap_style = "icon85_*.png"
+}
